@@ -1,4 +1,4 @@
-Appearance-prediction
+COITR — a novel algorithm for predicting externally visible traits of а child
 =================================================
 
 Authors: Kozlova K, Nizamutdinov I, Slepov N, Surkova E, Popov I, Tsukanov K, Ilinsky V, Rakitko A 
